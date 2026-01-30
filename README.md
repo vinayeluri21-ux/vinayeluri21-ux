@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Eluri
 
-**Senior Azure Data Engineer (5+ Years Experience)**
+**Senior Data Engineer (5+ Years Experience)**
 📍 Leicester, United Kingdom 🇬🇧
 
 📞 +44 7777 455585
