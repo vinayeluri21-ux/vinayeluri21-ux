@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Eluri
 
-**Senior Data Engineer (5+ Years Experience)**
+**Azure Data Engineer (5+ Years Experience)**
 📍 Leicester, United Kingdom 🇬🇧
 
 📞 +44 7777 455585
@@ -12,7 +12,7 @@
 
 ## 🚀 Professional Profile
 
-Senior Azure Data Engineer with **5+ years of experience** designing, building, and optimising enterprise-scale data platforms on **Microsoft Azure**.
+Azure Data Engineer with **5+ years of experience** designing, building, and optimising enterprise-scale data platforms on **Microsoft Azure**.
 Expert in **Azure Data Factory, Databricks, Synapse Analytics, Microsoft Fabric, PySpark, and SQL**, delivering scalable **ETL/ELT pipelines** and **lakehouse architectures**.
 
 Strong background in:
@@ -73,7 +73,7 @@ Strong background in:
 
 ## 💼 Professional Experience
 
-### **Senior Data Engineer**
+### **Azure Data Engineer**
 **Madul Tech Software Pvt Ltd** | Jun 2021 – Dec 2023
 
 - Designed and delivered scalable Azure data pipelines using **Azure Data Factory and Databricks**
